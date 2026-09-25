@@ -1,0 +1,14 @@
+{
+  "name": "merkle-proof-verifier",
+  "version": "1.0.0",
+  "description": "Merkle 树构建与包含性证明校验",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
